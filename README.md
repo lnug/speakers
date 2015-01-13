@@ -26,7 +26,7 @@ If you have any questions regarding an event or your talk, please add a comment 
 - Check the milestone date for confirmation of the event date.
 
 ## After the event
-Please tweet your slides to suppost the youtube viewers
+Please tweet a url to your slides
 
 Thanks,
 <3 LNUGorg team
