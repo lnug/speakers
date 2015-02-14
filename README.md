@@ -17,7 +17,7 @@ Please provide the following information:
 - Month: [Preferred Month]
 - Twitter: [Twitter Username]
 
-If you have any questions regarding an event or your talk, please add a comment to your issue and we'll be in touch.
+If you have any questions regarding an event or your talk, please add an **extra** comment to your issue and we'll be in touch.
 
 * Please conform to the issue structure so that we can use the api to automate some of the event admin.
 
