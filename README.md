@@ -11,15 +11,14 @@ A repo for organising talk proposals and discussing talks with speakers
 ## How
 Its simple. [Open an issue](https://github.com/lnug/speakers/issues/new) to submit a talk.  
 
-Please provide the following information:
+Please structure the issue as following:
 
 - Title: [Talk Title]
-- Month: [Preferred Month]
-- Twitter: [Twitter Username]
+- Body: [Abstract of your talk]
 
-If you have any questions regarding an event or your talk, please add an **extra** comment to your issue and we'll be in touch.
+If you are looking for feedback on your talk or have additional question, reply to your issue with  **extra comments** stating your questions but please keep them off the body of the original issue text itself
 
-* Please conform to the issue structure so that we can use the api to automate some of the event admin.
+### * Please conform to the issue structure so that we can use the api to automate some of the event admin.
 
 ## Confirmation
 - Once your issue is assigned a milestone, it has been approved and confirmed.  
