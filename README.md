@@ -18,7 +18,7 @@ Please structure the issue as following:
 
 If you are looking for feedback on your talk or have additional question, reply to your issue with  **extra comments** stating your questions but please keep them off the body of the original issue text itself
 
-### * Please conform to the issue structure so that we can use the api to automate some of the event admin.
+### Please conform to the issue structure so that we can use the api to automate some of the event admin.
 
 ## Confirmation
 - Once your issue is assigned a milestone, it has been approved and confirmed.  
