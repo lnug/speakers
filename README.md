@@ -25,7 +25,7 @@ If you are looking for feedback on your talk or have additional question, reply 
 - Check the milestone date for confirmation of the event date.
 
 ## After the event
-Please tweet a url to your slides
+Please tweet a url to your slides and put the link in your proposal as a comment.
 
 Thanks,
 <3 LNUGorg team
