@@ -5,7 +5,7 @@ A repo for organising talk proposals and discussing talks with speakers
 ## Talk Format
 
 - Each event has 3 speaker slots available.  
-- Each talk is allocated 20 minute, however this can be altered on a per-case basis.
+- Each talk is allocated 20 minutes, however, this can be altered on a per-case basis.
 - Talks are recorded and posted onto the LNUG [Youtube](https://www.youtube.com/channel/UC-qjgj2TnRoI1ZmFFaN3FeQ) channel.  * Your permission is implied.
 
 ## How
