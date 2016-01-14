@@ -14,7 +14,9 @@ Its simple. [Open an issue](https://github.com/lnug/speakers/issues/new) to subm
 Please structure the issue as following:
 
 - Title: [Talk Title]
-- Body: [Abstract of your talk]
+- Body: 
+  - [Abstract of your talk]
+  - [A bit about you, e.g. current job, twitter handle, etc.]
 
 If you are looking for feedback on your talk or have additional question, reply to your issue with  **extra comments** stating your questions but please keep them off the body of the original issue text itself
 
