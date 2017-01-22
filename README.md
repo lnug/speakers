@@ -26,6 +26,9 @@ If you are looking for feedback on your talk or have additional question, reply 
 - Once your issue is assigned a milestone, it has been approved and confirmed.  
 - Check the milestone date for confirmation of the event date.
 
+## Code of conduct:
+LNUG has a [code of conduct](https://lnug.org/code-of-conduct.html) that speakers as well as attendees are expected to observe - please be sure to read it and comply with it in your participation with LNUG
+
 ## After the event
 Please tweet a url to your slides and put the link in your proposal as a comment.
 
