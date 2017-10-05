@@ -4,9 +4,11 @@ A repo for organising talk proposals and discussing talks with speakers
 
 ## Talk Format
 
-- Each event has 3 speaker slots available.  
+- Each event has 2-3 speaker slots available.  
 - Each talk is allocated 20 minutes, however, this can be altered on a per-case basis.
+- We also welcome shorter **lightning talks** for quick dives on node.js topics - 5-10 minutes max. Takes the pressure off
 - Talks are recorded and posted onto the LNUG [Youtube](https://www.youtube.com/channel/UC-qjgj2TnRoI1ZmFFaN3FeQ) channel.  * Your permission is implied.
+
 
 ## Some loose talk guidelines
 - we only host live talks with speakers in the house (no video link ups)
