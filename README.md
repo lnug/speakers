@@ -21,7 +21,7 @@ Its simple. [Open an issue](https://github.com/lnug/speakers/issues/new) to subm
 Please structure the issue as following:
 
 - Title: [Talk Title]
-- Is Your Talk Over 20 minytes long?: Boolean
+- Is Your Talk Over 20 minutes long?: [Boolean]
 - Body: 
   - [Abstract of your talk]
   - [A bit about you, e.g. current job, twitter handle, etc.]
