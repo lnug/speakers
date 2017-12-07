@@ -21,10 +21,13 @@ Its simple. [Open an issue](https://github.com/lnug/speakers/issues/new) to subm
 Please structure the issue as following:
 
 - Title: [Talk Title]
-- Is Your Talk Over 20 minutes long?: [Boolean]
 - Body: 
   - [Abstract of your talk]
   - [A bit about you, e.g. current job, twitter handle, etc.]
+- I confirm my talk is 20 mins long in total.
+- I confirm that I will abide by the [Code of Conduct](https://lnug.org/code-of-conduct.html)
+
+
 
 If you are looking for feedback on your talk or have additional question, reply to your issue with  **extra comments** stating your questions but please keep them off the body of the original issue text itself
 
