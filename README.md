@@ -15,6 +15,10 @@ A repo for organising talk proposals and discussing talks with speakers
 - We prefer hands on demos and live code-in-practice or a developer story to tell over org charts, process diagrams, product demos or corporate promo material.
 - this is the London *Node.js* User group - we are a broad group of developers and touch many technlogies in our day to day lives - but try and keep the link to Node and JavaScript central to your talk
 
+## First time speakers
+- Our meetup is inclusive and friendly. If you need some speaking mentorship - we're here to help. Our organizers can provide a hand in multiple ways: Review your talk, provide tips & advice regarding public speaking, help with slides and general presentation.
+**How?** Simply add a comment below your talk proposal (the github issue) that you're looking for some advice when you submit a talk.
+
 ## How
 Its simple. [Open an issue](https://github.com/lnug/speakers/issues/new) to submit a talk.  
 
