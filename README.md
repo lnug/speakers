@@ -1,4 +1,4 @@
-# LNUG Talks
+# Women CAN Code Talks
 
 A repo for organising talk proposals and discussing talks with speakers
 
@@ -7,7 +7,7 @@ A repo for organising talk proposals and discussing talks with speakers
 - Each event has 2-3 speaker slots available.  
 - Each talk is allocated 20 minutes, however, this can be altered on a per-case basis.
 - We also welcome shorter **lightning talks** for quick dives on node.js topics - 5-10 minutes max. Takes the pressure off
-- Talks are recorded and posted onto the LNUG [Youtube](https://www.youtube.com/channel/UC-qjgj2TnRoI1ZmFFaN3FeQ) channel.  * Your permission is implied.
+- Talks are recorded and posted onto the Women CAN Code [Twitch](https://www.twitch.com/womencancode) channel.  * Your permission is implied.
 
 
 ## Some loose talk guidelines
@@ -20,7 +20,7 @@ A repo for organising talk proposals and discussing talks with speakers
 **How?** Simply add a comment below your talk proposal (the github issue) that you're looking for some advice when you submit a talk.
 
 ## How
-Its simple. [Open an issue](https://github.com/lnug/speakers/issues/new) to submit a talk.  
+Its simple. [Open an issue](https://github.com/womencancode/event-speaker/issues/new) to submit a talk.  
 
 Please structure the issue as following:
 
@@ -42,12 +42,10 @@ If you are looking for feedback on your talk or have additional question, reply 
 - Check the milestone date for confirmation of the event date.
 
 ## Code of conduct:
-LNUG has a [code of conduct](https://lnug.org/code-of-conduct.html) that speakers as well as attendees are expected to observe - please be sure to read it and comply with it in your participation with LNUG
+LNUG has a [code of conduct](CODE_OF_CONDUCT.md) that speakers as well as attendees are expected to observe - please be sure to read it and comply with it in your participation with LNUG
 
 ## After the event
 Please tweet a url to your slides and put the link in your proposal as a comment.
 
 Thanks,
-<3 LNUGorg team
-
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/lnug/discuss)
+<3 WomenCANCode team
