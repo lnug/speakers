@@ -29,7 +29,7 @@ Please structure the issue as following:
   - [Abstract of your talk]
   - [A bit about you, e.g. current job, twitter handle, etc.]
 - I confirm my talk is 20 mins long in total.
-- I confirm that I will abide by the [Code of Conduct](https://lnug.org/code-of-conduct.html)
+- I confirm that I will abide by the [Code of Conduct](CODE_OF_CONDUCT.md)
 
 
 
