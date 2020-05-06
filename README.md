@@ -10,13 +10,15 @@ A repo for organising talk proposals and discussing talks with speakers
 - Talks are recorded and posted onto the LNUG [Youtube](https://www.youtube.com/channel/UC-qjgj2TnRoI1ZmFFaN3FeQ) channel.  * Your permission is implied.
 
 
-## Some loose talk guidelines
-- we only host live talks with speakers in the house (no video link ups)
+## Some loose talk guidelines (updated for the remote LNUG lockdown blues)
+- ~we only host live talks with speakers in the house (no video link ups)~
+- we welcome talks from anywhere in the world, and can be live, or prerecorded
 - We prefer hands on demos and live code-in-practice or a developer story to tell over org charts, process diagrams, product demos or corporate promo material.
 - this is the London *Node.js* User group - we are a broad group of developers and touch many technlogies in our day to day lives - but try and keep the link to Node and JavaScript central to your talk
 
 ## First time speakers
 - Our meetup is inclusive and friendly. If you need some speaking mentorship - we're here to help. Our organizers can provide a hand in multiple ways: Review your talk, provide tips & advice regarding public speaking, help with slides and general presentation.
+
 **How?** Simply add a comment below your talk proposal (the github issue) that you're looking for some advice when you submit a talk.
 
 ## How
@@ -30,7 +32,6 @@ Please structure the issue as following:
   - [A bit about you, e.g. current job, twitter handle, etc.]
 - I confirm my talk is 20 mins long in total.
 - I confirm that I will abide by the [Code of Conduct](https://lnug.org/code-of-conduct.html)
-
 
 
 If you are looking for feedback on your talk or have additional question, reply to your issue with  **extra comments** stating your questions but please keep them off the body of the original issue text itself
