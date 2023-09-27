@@ -11,8 +11,7 @@ A repo for organising talk proposals and discussing talks with speakers
 
 
 ## Some loose talk guidelines (updated for the remote LNUG lockdown blues)
-- ~we only host live talks with speakers in the house (no video link ups)~
-- we welcome talks from anywhere in the world, and can be live, or prerecorded
+- we only host live talks with speakers in the house (no video link ups - sorry, they don't work well for our meetup format)
 - We prefer hands on demos and live code-in-practice or a developer story to tell over org charts, process diagrams, product demos or corporate promo material.
 - this is the London *Node.js* User group - we are a broad group of developers and touch many technlogies in our day to day lives - but try and keep the link to Node and JavaScript central to your talk
 
