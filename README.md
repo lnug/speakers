@@ -10,7 +10,7 @@ A repo for organising talk proposals and discussing talks with speakers
 - Talks are recorded and posted onto the LNUG [Youtube](https://www.youtube.com/channel/UC-qjgj2TnRoI1ZmFFaN3FeQ) channel.  * Your permission is implied.
 
 
-## Some loose talk guidelines (updated for the remote LNUG lockdown blues)
+## Some loose talk guidelines
 - we only host live talks with speakers in the house (no video link ups - sorry, they don't work well for our meetup format)
 - We prefer hands on demos and live code-in-practice or a developer story to tell over org charts, process diagrams, product demos or corporate promo material.
 - this is the London *Node.js* User group - we are a broad group of developers and touch many technlogies in our day to day lives - but try and keep the link to Node and JavaScript central to your talk
